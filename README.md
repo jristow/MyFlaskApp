@@ -4,6 +4,6 @@
 
 <p>To run, clone the directory to your local machine, navigate to the folder and execute the following command:</p>
 
-'''python
+```python
 python3 app.py
-'''
+```
